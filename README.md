@@ -1,1 +1,1 @@
-# Akbank-Veri-Analizi-Bootcamp
+# Aygaz-Veri-Analizi-Bootcamp
